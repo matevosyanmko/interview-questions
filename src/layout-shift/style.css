@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?600&family=Oswald:wght@200..700&");
+
+.text {
+  border: 1px solid black;
+  font-family: "Oswald", Garamond;
+}
